@@ -20,4 +20,5 @@ Backend: Node.js, Express.js, MongoDB
 
 ### Document Link
 
+https://docs.google.com/document/d/1SNZmpzOYt86SUXa2IKqKpW4a1zp6ecaxb3gSUphIbZw/edit?usp=sharing
 
